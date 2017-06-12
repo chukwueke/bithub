@@ -1,1 +1,1 @@
-SLEEK
+This is a simple read me file about my project.
